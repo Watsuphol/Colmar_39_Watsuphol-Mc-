@@ -39,6 +39,7 @@ a {
 body {
   font-family: "Arial", sans-serif;
   font-size: 20px;
+  height: 100vh;
 }
 
 .mobile-logo {
